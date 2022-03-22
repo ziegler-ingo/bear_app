@@ -1,6 +1,5 @@
--f https://download.pytorch.org/whl/torch_stable.html
-torch==1.9.1+cpu 
-torchvision==0.10.1+cpu
-fastai==2.5.2
-ipywidgets
 voila
+fastai>=2
+pillow<7
+packaging
+ipywidgets==7.5.1
