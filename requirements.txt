@@ -1,0 +1,9 @@
+pytorch==1.9.1+cpu
+torchvision==0.10.1+cpu
+python==3.9.7
+fastai>=2
+voila>=0.2.11
+voila-gridstack>=0.2
+pygments>=2.10
+Pillow>=9.0.1
+ipywidgets>=7.5.1
